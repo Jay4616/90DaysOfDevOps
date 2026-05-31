@@ -30,3 +30,6 @@ sudo resize2fs /dev/my_vg/my_lv
 
 # 6. Verify the expanded space layout and confirm the new size
 df -h /mnt/my_storage
+
+<img width="1600" height="831" alt="image" src="https://github.com/user-attachments/assets/30e06d8b-98a6-46f3-87e1-46705ed82b41" />
+
