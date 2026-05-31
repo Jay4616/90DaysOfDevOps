@@ -5,6 +5,7 @@ Understanding basic networking diagnostics is essential for identifying communic
 
 # 1. Check local IP addresses and active interfaces
 hostname -I
+
 ip addr show
 
 # 2. Test network layer connectivity and trace the routing path
