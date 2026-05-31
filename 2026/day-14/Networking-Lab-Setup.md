@@ -1,5 +1,4 @@
 Day 14: Networking & Troubleshooting Checklist
-
 Understanding basic networking diagnostics is essential for identifying communication blocks, resolving latency issues, and keeping services connected on cloud infrastructure. This checklist covers commands to inspect local network configurations, test connection layers, and trace remote endpoint routing.
 
 🛠️ Practical Diagnostic Commands
@@ -21,5 +20,5 @@ sudo ss -tulpn
 sudo netstat -tulpn
 
 # 5. Test application layer response and verify raw port socket connectivity
-curl -I [https://www.google.com](https://www.google.com)
+curl -I https://www.google.com
 nc -zv google.com 443
