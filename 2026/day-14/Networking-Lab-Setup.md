@@ -27,3 +27,8 @@ sudo netstat -tulpn
 curl -I https://www.google.com
 
 nc -zv google.com 443
+
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/2518dddc-9190-4788-92e7-06123aeb6c42" />
+
+
+
