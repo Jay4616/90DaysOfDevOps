@@ -1,7 +1,7 @@
-Day 14: Networking & Troubleshooting Checklist
+#Day 14: Networking & Troubleshooting Checklist
 Understanding basic networking diagnostics is essential for identifying communication blocks, resolving latency issues, and keeping services connected on cloud infrastructure.
 
-🛠️ Practical Diagnostic Commands
+#🛠️ Practical Diagnostic Commands
 
 # 1. Check local IP addresses and active interfaces
 hostname -I
